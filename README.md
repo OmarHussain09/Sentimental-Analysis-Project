@@ -1,2 +1,2 @@
 # Sentimental-Analysis-Project
-A Python script to extract text data from URLs and conducting text analysis using NLTK and BeautifulSoap by automated data processing and then documented results thoroughly.
+A Python script to extract text data from URLs and conduct text analysis using NLTK and BeautifulSoap by automated data processing and then documented results thoroughly. All the necessary information is well documented in "Sentimental_Analysis.ipynb" markdown cell. Read it before running the cells, the cells should be run in top-down order. Note: Negative, Positive txt files must be saved before in a MasterDictionary folder in order to run it. 
